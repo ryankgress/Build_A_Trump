@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Build A Trump</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="next">Next</string>
+</resources>
