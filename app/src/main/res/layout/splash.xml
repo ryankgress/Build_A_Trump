@@ -8,6 +8,12 @@
         android:layout_width="match_parent"
         android:layout_height="459dp"
         android:id="@+id/imageView"
-        android:src="@drawable/logo"
-        android:layout_gravity="center" />
+        android:src="@drawable/logo" />
+
+    <Button
+        android:layout_width="182dp"
+        android:layout_height="wrap_content"
+        android:text="Enter App "
+        android:id="@+id/btnSplash"
+        android:layout_gravity="center_horizontal" />
 </LinearLayout>
