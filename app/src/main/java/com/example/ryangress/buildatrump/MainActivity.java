@@ -17,7 +17,7 @@ public class MainActivity extends ActionBarActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.splash);
+        setContentView(R.layout.splash);//hey christian
         Button b = (Button)findViewById(R.id.btnSplash);
         b.setOnClickListener(new View.OnClickListener() {
 
